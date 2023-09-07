@@ -3,9 +3,9 @@
       {
         "id": 1,
         "title": "Cacahuate japones",
-        "description": "https://images.pexels.com/photos/5847235/pexels-photo-5847235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "",
         "images": [
-          ""
+          "https://images.pexels.com/photos/5847235/pexels-photo-5847235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         ],
         "price": 1299,
         "category": {
@@ -19,9 +19,9 @@
       {
         "id": 2,
         "title": "Cacahuate enchilado",
-        "description": "https://images.pexels.com/photos/5847235/pexels-photo-5847235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "",
         "images": [
-          ""
+          "https://images.pexels.com/photos/5847235/pexels-photo-5847235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         ],
         "price": 1299,
         "category": {
@@ -35,9 +35,9 @@
       {
         "id": 3,
         "title": "Cacahuate mixto",
-        "description": "https://images.pexels.com/photos/6069022/pexels-photo-6069022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "",
         "images": [
-          ""
+          "https://images.pexels.com/photos/6069022/pexels-photo-6069022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         ],
         "price": 1299,
         "category": {
