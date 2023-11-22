@@ -63,6 +63,22 @@
           "creationAt": "2023-09-07T13:04:32.000Z",
           "updatedAt": "2023-09-07T13:04:32.000Z"
       }
+      },
+        {
+        "id": 5,
+        "title": "Arandano enchilado",
+        "description": "",
+        "images": [
+          "https://i.pinimg.com/564x/68/bc/62/68bc620af779363cbff9ffe8596278bf.jpg"
+        ],
+        "price": 183,
+        "category": {
+          "id": 34,
+          "name": "botanas",
+          "image": "https://shorturl.at/mqDQ0",
+          "creationAt": "2023-09-07T13:04:32.000Z",
+          "updatedAt": "2023-09-07T13:04:32.000Z"
+      }
       }
     ]
   }
