@@ -13,6 +13,7 @@
           "isKilo":true,
           "isMedio":false,
           "isCuarto":false,
+          "price":null,
         "category": {
           "id": 34,
           "name": "cacahuate",
@@ -34,6 +35,7 @@
            "isKilo":true,
           "isMedio":false,
           "isCuarto":false,
+           "price":null,
         "category": {
           "id": 34,
           "name": "cacahuate",
@@ -55,6 +57,7 @@
             "isKilo":true,
           "isMedio":false,
           "isCuarto":false,
+           "price":null,
         "category": {
           "id": 34,
           "name": "cacahuate",
@@ -76,6 +79,7 @@
             "isKilo":true,
           "isMedio":false,
           "isCuarto":false,
+           "price":null,
         "category": {
           "id": 34,
           "name": "gomitas",
@@ -97,6 +101,7 @@
              "isKilo":true,
           "isMedio":false,
           "isCuarto":false,
+             "price":null,
         "category": {
           "id": 34,
           "name": "botanas",
