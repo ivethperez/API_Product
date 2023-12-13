@@ -286,6 +286,307 @@
           "creationAt": "2023-09-07T13:04:32.000Z",
           "updatedAt": "2023-09-07T13:04:32.000Z"
       }
+      },
+        {
+        "id": 14,
+        "title": "Almedra Con Chocolate",
+        "description": "Almedra Con Chocolate",
+        "images": [
+          "https://i.pinimg.com/564x/6c/cd/9f/6ccd9fac97c1a343c9a8e815e91ecd8e.jpg"
+        ],
+        "priceKilo": 326,
+            "priceMedio":190,
+        "priceCuarto":121 ,
+             "isKilo":true,
+          "isMedio":false,
+          "isCuarto":false,
+             "price":null,
+        "category": {
+          "id": 34,
+          "name": "chocolates",
+          "image": "https://shorturl.at/mqDQ0",
+          "creationAt": "2023-09-07T13:04:32.000Z",
+          "updatedAt": "2023-09-07T13:04:32.000Z"
       }
+      }
+        ,
+        {
+        "id": 15,
+        "title": "Bombon con Chocolate"
+        "description": "Bombon con Chocolate",
+        "images": [
+          "https://i.pinimg.com/564x/80/2c/87/802c874cbbb643b4b10f8eab9da7c73c.jpg"
+        ],
+        "priceKilo": 220,
+            "priceMedio":137,
+        "priceCuarto": 94.5,
+             "isKilo":true,
+          "isMedio":false,
+          "isCuarto":false,
+             "price":null,
+        "category": {
+          "id": 34,
+          "name": "chocolates",
+          "image": "https://shorturl.at/mqDQ0",
+          "creationAt": "2023-09-07T13:04:32.000Z",
+          "updatedAt": "2023-09-07T13:04:32.000Z"
+      }
+      },{ 
+        "id": 16, 
+        "title": "Arándano Enchilado", 
+        "description": "Arándano Enchilado", 
+        "images": [ 
+          "https://i.pinimg.com/564x/68/bc/62/68bc620af779363cbff9ffe8596278bf.jpg" 
+        ], 
+        "priceKilo": 218, 
+            "priceMedio": 134, 
+        "priceCuarto": 92, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "
+https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 17, 
+        "title": "Arándano Natural", 
+        "description": "Arándano Natural", 
+        "images": [ 
+          "https://i.pinimg.com/564x/51/b6/d0/51b6d0b095fcabb214f09bef73f39d2c.jpg" 
+        ], 
+        "priceKilo": 200, 
+            "priceMedio": 126, 
+        "priceCuarto": 88, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 18, 
+        "title": "Enchilado Normal", 
+        "description": "Cacahuate Natural Enchilado", 
+        "images": [ 
+          "https://i.pinimg.com/564x/af/5a/d0/af5ad0afca1ab7bb92a2201b917452c2.jpg" 
+        ], 
+        "priceKilo": 110, 
+            "priceMedio": 82, 
+        "priceCuarto": 67, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 19, 
+        "title": "Garbanzo", 
+        "description": "Garbanzo Enchilado", 
+        "images": [ 
+          "https://i.pinimg.com/564x/f7/42/ca/f742ca3f0727011ca478b1b8464062a3.jpg" 
+        ], 
+        "priceKilo": 110, 
+            "priceMedio": 82, 
+        "priceCuarto": 67, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 20, 
+        "title": "Japones Natural", 
+        "description": "Cacahuate Japones Natural", 
+        "images": [ 
+          "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        ], 
+        "priceKilo": 122, 
+            "priceMedio": 88, 
+        "priceCuarto": 71, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+ 
+
+{ 
+        "id": 21, 
+        "title": "Japones Habanero", 
+        "description": "Japones Habanero", 
+        "images": [ 
+          "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        ], 
+        "priceKilo": 122, 
+            "priceMedio": 88, 
+        "priceCuarto": 71, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 22, 
+        "title": "Japones Hot Nuts", 
+        "description": "Japones Hot Nuts", 
+        "images": [ 
+          "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        ], 
+        "priceKilo": 122, 
+            "priceMedio": 88, 
+        "priceCuarto": 71, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 23, 
+        "title": "Japones Enchilado", 
+        "description": "Japones Enchilado", 
+        "images": [ 
+          "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        ], 
+        "priceKilo": 122, 
+            "priceMedio": 88, 
+        "priceCuarto": 71, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 24, 
+        "title": "Pistache Natural", 
+        "description": "Pistache Natural", 
+        "images": [ 
+          "https://i.pinimg.com/564x/39/6f/f5/396ff5badad3a47bc35bff8472aeb663.jpg" 
+        ], 
+        "priceKilo": 332, 
+            "priceMedio": 192, 
+        "priceCuarto": 122, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+ 
+
+{ 
+        "id": 25, 
+        "title": "Pistache Enchilado", 
+        "description": "Pistache Enchilado", 
+        "images": [ 
+          "https://i.pinimg.com/564x/39/6f/f5/396ff5badad3a47bc35bff8472aeb663.jpg" 
+        ], 
+        "priceKilo": 332, 
+            "priceMedio": 192, 
+        "priceCuarto": 122, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+
+{ 
+        "id": 26, 
+        "title": "Botana Fina Con Sal", 
+        "description": "Botana Fina Con Sal", 
+        "images": [ 
+          "https://i.pinimg.com/originals/4d/da/20/4dda20ea31c2fe2a2f345f82600c49d8.jpg" 
+        ], 
+        "priceKilo": 384, 
+            "priceMedio": 219, 
+        "priceCuarto": 136, 
+             "isKilo":true, 
+          "isMedio":false, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "https://shorturl.at/mqDQ0", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } 
     ]
   }
