@@ -109,8 +109,7 @@
           "creationAt": "2023-09-07T13:04:32.000Z",
           "updatedAt": "2023-09-07T13:04:32.000Z"
       }
-      }
-        ,
+      },
         {
         "id": 6,
         "title": "Gomita Aro Durazno",
@@ -353,7 +352,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 17, 
         "title": "Arándano Natural", 
@@ -376,7 +374,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 18, 
         "title": "Enchilado Normal", 
@@ -399,7 +396,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 19, 
         "title": "Garbanzo", 
@@ -422,7 +418,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 20, 
         "title": "Japones Natural", 
@@ -445,9 +440,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
- 
-
 { 
         "id": 21, 
         "title": "Japones Habanero", 
@@ -470,7 +462,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 22, 
         "title": "Japones Hot Nuts", 
@@ -493,7 +484,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 23, 
         "title": "Japones Enchilado", 
@@ -516,7 +506,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 24, 
         "title": "Pistache Natural", 
@@ -539,9 +528,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
- 
-
 { 
         "id": 25, 
         "title": "Pistache Enchilado", 
@@ -564,7 +550,6 @@
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
       } ,
-
 { 
         "id": 26, 
         "title": "Botana Fina Con Sal", 
@@ -604,8 +589,7 @@
         "category": { 
           "id": 34, 
           "name": "botanas", 
-          "image": "
-https://shorturl.at/mqDQ0", 
+          "image": "https://shorturl.at/mqDQ0", 
           "creationAt": "2023-09-07T13:04:32.000Z", 
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
