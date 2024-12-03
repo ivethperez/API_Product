@@ -211,7 +211,7 @@
         "title": "Chocoreta", 
         "description": "Chocoreta ", 
         "images": [ 
-          "" 
+          "https://i.pinimg.com/736x/86/0a/0a/860a0affb1e2d1721eb9de42b26d2f5a.jpg" 
         ], 
         "priceKilo": 254, 
             "priceMedio": 40, 
@@ -222,7 +222,7 @@
              "price":null, 
         "category": { 
           "id": 34, 
-          "name": "botanas", 
+          "name": "chocolates", 
           "image": "", 
           "creationAt": "2023-09-07T13:04:32.000Z", 
           "updatedAt": "2023-09-07T13:04:32.000Z" 
@@ -233,7 +233,7 @@
         "title": "Galleta con Chocolate", 
         "description": "Galleta con Chocolate ", 
         "images": [ 
-          "" 
+          "https://i.pinimg.com/736x/6e/52/ea/6e52eaa97fd5625d2417ff50f46299df.jpg" 
         ], 
         "priceKilo": 242, 
             "priceMedio": 50, 
@@ -244,7 +244,7 @@
              "price":null, 
         "category": { 
           "id": 34, 
-          "name": "botanas", 
+          "name": "chocolates", 
           "image": "", 
           "creationAt": "2023-09-07T13:04:32.000Z", 
           "updatedAt": "2023-09-07T13:04:32.000Z" 
@@ -267,7 +267,7 @@
              "price":null, 
         "category": { 
           "id": 34, 
-          "name": "botanas", 
+          "name": "chocolates", 
           "image": "", 
           "creationAt": "2023-09-07T13:04:32.000Z", 
           "updatedAt": "2023-09-07T13:04:32.000Z" 
