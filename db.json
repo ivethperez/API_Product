@@ -46,7 +46,28 @@
           "updatedAt": "2023-09-07T13:04:32.000Z"
       }
       },
-       
+      {
+        "id": 12,
+        "title": "Gomita de fruta",
+        "description": "Gomita de fruta",
+        "images": [
+          "https://i.pinimg.com/736x/d8/e7/90/d8e790fd8f9097d9fd5541a98a548f48.jpg"
+        ],
+        "priceKilo": 148,
+            "priceMedio": 40,
+        "priceCuarto":77 ,
+             "isKilo":false,
+          "isMedio":true,
+          "isCuarto":false,
+             "price":null,
+        "category": {
+          "id": 34,
+          "name": "gomitas",
+          "image": "",
+          "creationAt": "2023-09-07T13:04:32.000Z",
+          "updatedAt": "2023-09-07T13:04:32.000Z"
+      }
+      },
         {
         "id": 14,
         "title": "Almedra Con Chocolate",
@@ -117,8 +138,8 @@
       } ,
 { 
         "id": 18, 
-        "title": "Enchilado Normal", 
-        "description": "Cacahuate Natural Enchilado", 
+        "title": "Botana mexicana", 
+        "description": "Cacahuate convinado", 
         "images": [ 
           "https://i.pinimg.com/564x/af/5a/d0/af5ad0afca1ab7bb92a2201b917452c2.jpg" 
         ], 
@@ -166,6 +187,28 @@
         "description": "Japones Habanero", 
         "images": [ 
           "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        ], 
+        "priceKilo": 122, 
+            "priceMedio": 30, 
+        "priceCuarto": 71, 
+             "isKilo":false, 
+          "isMedio":true, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      } ,
+      { 
+        "id": 21, 
+        "title": "Hot Nuts", 
+        "description": "Cacahuate tipo Hot Nuts", 
+        "images": [ 
+          "https://media.istockphoto.com/id/1686277638/es/foto/surtido-de-bocadillos-crujientes-de-cacahuetes-wasabi-verde-chile-picante-rojo-queso-jalape%C3%B1o.jpg?s=1024x1024&w=is&k=20&c=GWFyzNAskWQ8LSJ765h0-p8TLTrtmTWll9uXL6BLRrk=" 
         ], 
         "priceKilo": 122, 
             "priceMedio": 30, 
@@ -236,7 +279,7 @@
           "https://i.pinimg.com/736x/6e/52/ea/6e52eaa97fd5625d2417ff50f46299df.jpg" 
         ], 
         "priceKilo": 242, 
-            "priceMedio": 50, 
+            "priceMedio": 70, 
         "priceCuarto": 100, 
              "isKilo":false, 
           "isMedio":true, 
