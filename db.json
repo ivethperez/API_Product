@@ -321,7 +321,7 @@
         "title": "Caja convinada", 
         "description": "Huevito, almendra con chocolate y arandano", 
         "images": [ 
-          "img/cajaConvinada.jpg"
+          "https://srv1264-files.hstgr.io/f953a24be29d7748/files/public_html/img/cajaConvinada.jpg"
         ], 
         "priceKilo": 361, 
             "priceMedio": 50, 
@@ -340,10 +340,10 @@
       },
       { 
         "id": 16, 
-        "title": "Bolsa convinadad", 
+        "title": "Bolsa convinada", 
         "description": "Huevito, cacahuate japones, cacahuate japones habanero,botana mexicana, arandano, almendra con chocolate y bombon con chocolate", 
         "images": [ 
-          "img/bolsaConvinada" 
+          "https://srv1264-files.hstgr.io/f953a24be29d7748/files/public_html/img/bolsaConvinada.jpg" 
         ], 
         "priceKilo": 361, 
             "priceMedio": 130, 
