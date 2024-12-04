@@ -321,7 +321,7 @@
         "title": "Caja convinada", 
         "description": "Huevito, almendra con chocolate y arandano", 
         "images": [ 
-          "https://srv1264-files.hstgr.io/f953a24be29d7748/files/public_html/img/cajaConvinada.jpg"
+          "img/cajaConvinada.jpg"
         ], 
         "priceKilo": 361, 
             "priceMedio": 50, 
