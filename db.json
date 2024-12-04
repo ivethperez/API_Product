@@ -327,7 +327,7 @@
             "priceMedio": 50, 
         "priceCuarto": 130, 
              "isKilo":false, 
-          "isMedio":true, 
+          "isMedio":false, 
           "isCuarto":false, 
              "price":null, 
         "category": { 
@@ -343,13 +343,13 @@
         "title": "Bolsa convinada", 
         "description": "Huevito, cacahuate japones, cacahuate japones habanero,botana mexicana, arandano, almendra con chocolate y bombon con chocolate", 
         "images": [ 
-          "img/bolsaConvinada" 
+          "img/bolsaConvinada.jpg" 
         ], 
         "priceKilo": 361, 
             "priceMedio": 130, 
         "priceCuarto": 130, 
              "isKilo":false, 
-          "isMedio":true, 
+          "isMedio":false, 
           "isCuarto":false, 
              "price":null, 
         "category": { 
