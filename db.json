@@ -343,7 +343,7 @@
         "title": "Bolsa convinada", 
         "description": "Huevito, cacahuate japones, cacahuate japones habanero,botana mexicana, arandano, almendra con chocolate y bombon con chocolate", 
         "images": [ 
-          "https://srv1264-files.hstgr.io/f953a24be29d7748/files/public_html/img/bolsaConvinada.jpg" 
+          "img/bolsaConvinada" 
         ], 
         "priceKilo": 361, 
             "priceMedio": 130, 
