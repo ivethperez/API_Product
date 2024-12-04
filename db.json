@@ -315,6 +315,50 @@
           "creationAt": "2023-09-07T13:04:32.000Z", 
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
+      },
+      { 
+        "id": 15, 
+        "title": "Caja convinada", 
+        "description": "Huevito, almendra con chocolate y arandano", 
+        "images": [ 
+          "img/cajaConvinada.jpg"
+        ], 
+        "priceKilo": 361, 
+            "priceMedio": 50, 
+        "priceCuarto": 130, 
+             "isKilo":false, 
+          "isMedio":true, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
+      },
+      { 
+        "id": 16, 
+        "title": "Bolsa convinadad", 
+        "description": "Huevito, cacahuate japones, cacahuate japones habanero,botana mexicana, arandano, almendra con chocolate y bombon con chocolate", 
+        "images": [ 
+          "img/bolsaConvinada" 
+        ], 
+        "priceKilo": 361, 
+            "priceMedio": 130, 
+        "priceCuarto": 130, 
+             "isKilo":false, 
+          "isMedio":true, 
+          "isCuarto":false, 
+             "price":null, 
+        "category": { 
+          "id": 34, 
+          "name": "botanas", 
+          "image": "", 
+          "creationAt": "2023-09-07T13:04:32.000Z", 
+          "updatedAt": "2023-09-07T13:04:32.000Z" 
+      } 
+      }   
     ]
   }
