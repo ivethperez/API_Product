@@ -23,31 +23,8 @@
           "updatedAt": "2023-09-07T13:04:32.000Z"
       }
       },
-     
-        {
-        "id": 2,
-        "title": "Gomita Pandita",
-        "description": "Gomita Pandita",
-        "images": [
-          "https://i.pinimg.com/564x/17/1a/d3/171ad3352d0a4032276d34b81d1c7fc2.jpg"
-        ],
-        "priceKilo": 148,
-            "priceMedio": 40,
-        "priceCuarto":77 ,
-             "isKilo":false,
-          "isMedio":true,
-          "isCuarto":false,
-             "price":null,
-        "category": {
-          "id": 34,
-          "name": "gomitas",
-          "image": "",
-          "creationAt": "2023-09-07T13:04:32.000Z",
-          "updatedAt": "2023-09-07T13:04:32.000Z"
-      }
-      },
       {
-        "id": 3,
+        "id": 2,
         "title": "Gomita de fruta",
         "description": "Gomita de fruta",
         "images": [
@@ -69,7 +46,7 @@
       }
       },
         {
-        "id": 4,
+        "id": 3,
         "title": "Almedra Con Chocolate",
         "description": "Almedra Con Chocolate",
         "images": [
@@ -92,14 +69,14 @@
       }
         ,
         {
-        "id": 5,
-        "title": "Bombon con Chocolate",
-        "description": "Bombon con Chocolate",
+        "id": 4,
+        "title": "Bombón con Chocolate",
+        "description": "Bombón con Chocolate",
         "images": [
           "https://i.pinimg.com/564x/80/2c/87/802c874cbbb643b4b10f8eab9da7c73c.jpg"
         ],
         "priceKilo": 220,
-            "priceMedio":50,
+            "priceMedio":30,
         "priceCuarto": 94.5,
              "isKilo":false,
           "isMedio":true,
@@ -115,7 +92,7 @@
       },
    
 { 
-        "id": 6, 
+        "id": 5, 
         "title": "Arándano Natural", 
         "description": "Arándano Natural", 
         "images": [ 
@@ -137,9 +114,9 @@
       } 
       } ,
 { 
-        "id": 7, 
+        "id": 6, 
         "title": "Botana mexicana", 
-        "description": "Cacahuate convinado", 
+        "description": "Cacahuate combinado(japones,pepita,garbanzo,haba)", 
         "images": [ 
           "https://i.pinimg.com/564x/af/5a/d0/af5ad0afca1ab7bb92a2201b917452c2.jpg" 
         ], 
@@ -160,7 +137,7 @@
       } ,
 
 { 
-        "id": 8, 
+        "id": 7, 
         "title": "Japones Natural", 
         "description": "Cacahuate Japones Natural", 
         "images": [ 
@@ -182,7 +159,7 @@
       } 
       } ,
 { 
-        "id": 9, 
+        "id": 8, 
         "title": "Japones Habanero", 
         "description": "Japones Habanero", 
         "images": [ 
@@ -204,7 +181,7 @@
       } 
       } ,
       { 
-        "id": 10, 
+        "id": 9, 
         "title": "Hot Nuts", 
         "description": "Cacahuate tipo Hot Nuts", 
         "images": [ 
@@ -227,7 +204,7 @@
       } ,
 
 { 
-        "id": 11, 
+        "id": 10, 
         "title": "Pistache Natural", 
         "description": "Pistache Natural", 
         "images": [ 
@@ -250,7 +227,7 @@
       } ,
 
 { 
-        "id": 12, 
+        "id": 11, 
         "title": "Chocoreta", 
         "description": "Chocoreta ", 
         "images": [ 
@@ -272,14 +249,14 @@
       } 
       },
 { 
-        "id": 13, 
+        "id": 12, 
         "title": "Galleta con Chocolate", 
         "description": "Galleta con Chocolate ", 
         "images": [ 
           "https://i.pinimg.com/736x/6e/52/ea/6e52eaa97fd5625d2417ff50f46299df.jpg" 
         ], 
         "priceKilo": 242, 
-            "priceMedio": 70, 
+            "priceMedio": 40, 
         "priceCuarto": 100, 
              "isKilo":false, 
           "isMedio":true, 
@@ -295,7 +272,7 @@
       } ,
 
 { 
-        "id": 14, 
+        "id": 13, 
         "title": "Huevito", 
         "description": "Huevito", 
         "images": [ 
@@ -317,8 +294,8 @@
       } 
       },
       { 
-        "id": 15, 
-        "title": "Caja convinada", 
+        "id": 14, 
+        "title": "Caja combinada", 
         "description": "Huevito, almendra con chocolate y arandano", 
         "images": [ 
           "img/cajaConvinada.jpg"
@@ -337,28 +314,6 @@
           "creationAt": "2023-09-07T13:04:32.000Z", 
           "updatedAt": "2023-09-07T13:04:32.000Z" 
       } 
-      },
-      { 
-        "id": 16, 
-        "title": "Bolsa convinada", 
-        "description": "Huevito, cacahuate japones, cacahuate japones habanero,botana mexicana, arandano, almendra con chocolate y bombon con chocolate", 
-        "images": [ 
-          "img/bolsaConvinada.jpg" 
-        ], 
-        "priceKilo": 361, 
-            "priceMedio": 130, 
-        "priceCuarto": 130, 
-             "isKilo":false, 
-          "isMedio":false, 
-          "isCuarto":false, 
-             "price":null, 
-        "category": { 
-          "id": 34, 
-          "name": "botanas", 
-          "image": "", 
-          "creationAt": "2023-09-07T13:04:32.000Z", 
-          "updatedAt": "2023-09-07T13:04:32.000Z" 
-      } 
-      }   
+    }
     ]
   }
