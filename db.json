@@ -179,7 +179,7 @@
           "isMedio":true, 
           "isCuarto":false, 
              "price":null, 
-    "cantidad": 2,
+    "cantidad": 0,
         "category": { 
           "id": 34, 
           "name": "botanas", 
