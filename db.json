@@ -17,7 +17,7 @@
         "isMedio":false,
         "isCuarto":false,
            "price":null,
-          "cantidad": 10,
+          "cantidad": 0,
       "category": {
         "id": 34,
         "name": "gomitas",
@@ -42,7 +42,7 @@
         "isMedio":false,
         "isCuarto":false,
            "price":null,
-      "cantidad": 10,
+      "cantidad": 0,
       "category": {
         "id": 34,
         "name": "gomitas",
@@ -67,7 +67,7 @@
         "isMedio":false,
         "isCuarto":false,
            "price":null,
-             "cantidad": 10,
+             "cantidad": 0,
       "category": {
         "id": 34,
         "name": "gomitas",
@@ -398,7 +398,7 @@
         "isMedio":false, 
         "isCuarto":false, 
            "price":null, 
-  "cantidad": 10,
+  "cantidad": 0,
       "category": { 
         "id": 34, 
         "name": "chocolates", 
