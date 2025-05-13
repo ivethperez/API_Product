@@ -8,10 +8,10 @@
       "images": [
         "https://i.pinimg.com/564x/47/7a/ca/477aca8a25a74bc23636ac8d38741eef.jpg"
       ],
-      "price100g": 30,
-      "priceKilo": 130,
-          "priceMedio": 91,
-      "priceCuarto": 72,
+      "price100g": 40,
+      "priceKilo": 142,
+          "priceMedio": 98,
+      "priceCuarto": 75,
       "isGramo":true,
            "isKilo":false,
         "isMedio":false,
@@ -28,15 +28,15 @@
     },
   {
       "id": 2,
-      "title": "Gomita de fruta",
-      "description": "Gomita de fruta",
+      "title": "Gomita pandita",
+      "description": "Gomita panditas",
       "images": [
-        "https://i.pinimg.com/736x/d8/e7/90/d8e790fd8f9097d9fd5541a98a548f48.jpg"
+        "https://i.pinimg.com/736x/9f/ae/06/9fae0695c2b0cab2c91b0677e7c0cc9d.jpg"
       ],
-      "price100g": 30,
-      "priceKilo": 148,
-      "priceMedio": 101,
-      "priceCuarto":77 ,
+      "price100g": 40,
+      "priceKilo": 170,
+      "priceMedio": 112,
+      "priceCuarto":83 ,
       "isGramo":true,
            "isKilo":false,
         "isMedio":false,
@@ -53,15 +53,15 @@
     },
          {
       "id": 3,
-      "title": "Bolsa de comitas combinadas",
-      "description": "Gomita de fruta y mangomita",
+      "title": "Gomita de diente",
+      "description": "Gomita de diente",
       "images": [
-        "https://i.pinimg.com/736x/d8/e7/90/d8e790fd8f9097d9fd5541a98a548f48.jpg"
+        "https://i.pinimg.com/736x/dc/92/6b/dc926baed0f41ebb13f1589537b9181c.jpg"
       ],
       "price100g": 40,
-      "priceKilo": 148,
-          "priceMedio": 101,
-      "priceCuarto":77 ,
+      "priceKilo": 170,
+          "priceMedio": 112,
+      "priceCuarto":83 ,
       "isGramo":true,
            "isKilo":false,
         "isMedio":false,
@@ -84,9 +84,9 @@
         "https://i.pinimg.com/564x/6c/cd/9f/6ccd9fac97c1a343c9a8e815e91ecd8e.jpg"
       ],
       "price100g": 60,
-      "priceKilo": 326,
-          "priceMedio":190,
-      "priceCuarto":121 ,
+      "priceKilo": 430,
+          "priceMedio":242,
+      "priceCuarto":147 ,
       "isGramo":true,
            "isKilo":false,
         "isMedio":false,
@@ -109,10 +109,86 @@
       "images": [
         "https://i.pinimg.com/564x/80/2c/87/802c874cbbb643b4b10f8eab9da7c73c.jpg"
       ],
-      "price100g": 30,
-      "priceKilo": 220,
-          "priceMedio":137,
-      "priceCuarto": 94.5,
+      "price100g": 40,
+      "priceKilo": 285,
+          "priceMedio":169,
+      "priceCuarto": 110,
+      "isGramo":true,
+           "isKilo":false,
+        "isMedio":false,
+        "isCuarto":false,
+           "price":null,
+          "cantidad": 10,
+      "category": {
+        "id": 34,
+        "name": "chocolates",
+        "image": "",
+        "creationAt": "2023-09-07T13:04:32.000Z",
+        "updatedAt": "2023-09-07T13:04:32.000Z"
+    }
+    },
+
+    {
+      "id": 6,
+      "title": "Nuez con Chocolate",
+      "description": "Nuez con Chocolate",
+      "images": [
+        "https://i.pinimg.com/736x/f1/47/3e/f1473e8cac75181c48c40b5676e0307c.jpg"
+      ],
+      "price100g": 60,
+      "priceKilo": 506,
+          "priceMedio":280,
+      "priceCuarto": 166,
+      "isGramo":true,
+           "isKilo":false,
+        "isMedio":false,
+        "isCuarto":false,
+           "price":null,
+          "cantidad": 10,
+      "category": {
+        "id": 34,
+        "name": "chocolates",
+        "image": "",
+        "creationAt": "2023-09-07T13:04:32.000Z",
+        "updatedAt": "2023-09-07T13:04:32.000Z"
+    }
+    },
+    {
+      "id": 7,
+      "title": "Pasita con Chocolate",
+      "description": "Pasita con Chocolate",
+      "images": [
+        "hhttps://i.pinimg.com/736x/1d/4f/6a/1d4f6a23d4a8a125aa0f6ea065d11d55.jpg"
+      ],
+      "price100g": 50,
+      "priceKilo": 404,
+          "priceMedio":229,
+      "priceCuarto": 141,
+      "isGramo":true,
+           "isKilo":false,
+        "isMedio":false,
+        "isCuarto":false,
+           "price":null,
+          "cantidad": 10,
+      "category": {
+        "id": 34,
+        "name": "chocolates",
+        "image": "",
+        "creationAt": "2023-09-07T13:04:32.000Z",
+        "updatedAt": "2023-09-07T13:04:32.000Z"
+    }
+    },
+    {
+      "id": 8,
+      "title": "Hojuela de Chocolate",
+      "description": "Hojuela de Chocolate",
+      "images": [
+        ""
+      ],
+      "price100g": 50,
+      "priceKilo": 435,
+          "priceMedio":254,
+      "priceCuarto": 148,
       "isGramo":true,
            "isKilo":false,
         "isMedio":false,
@@ -129,16 +205,16 @@
     },
  
 { 
-      "id": 6, 
+      "id": 9, 
       "title": "Arándano Natural", 
       "description": "Arándano Natural", 
       "images": [ 
         "https://i.pinimg.com/564x/51/b6/d0/51b6d0b095fcabb214f09bef73f39d2c.jpg" 
       ], 
       "price100g": 40,
-      "priceKilo": 200, 
-          "priceMedio": 126, 
-      "priceCuarto": 88, 
+      "priceKilo": 182, 
+          "priceMedio": 118, 
+      "priceCuarto": 85, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -154,16 +230,16 @@
     } 
     } ,
 { 
-      "id": 7, 
+      "id": 10, 
       "title": "Botana mexicana", 
       "description": "Cacahuate combinado(japones,pepita,garbanzo,haba)", 
       "images": [ 
-        "https://i.pinimg.com/564x/af/5a/d0/af5ad0afca1ab7bb92a2201b917452c2.jpg" 
+        "img/botanaMexicana.png" 
       ], 
       "price100g": 30,
-      "priceKilo": 110, 
-          "priceMedio": 82, 
-      "priceCuarto": 67, 
+      "priceKilo": 138, 
+          "priceMedio": 96, 
+      "priceCuarto": 74, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -180,16 +256,16 @@
     } ,
 
 { 
-      "id": 8, 
+      "id": 11, 
       "title": "Japones Natural", 
       "description": "Cacahuate Japones Natural", 
       "images": [ 
         "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
       ], 
       "price100g": 30,
-      "priceKilo": 122, 
-          "priceMedio": 88, 
-      "priceCuarto": 71, 
+      "priceKilo": 130, 
+          "priceMedio": 92, 
+      "priceCuarto": 73, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -205,16 +281,16 @@
     } 
     } ,
 { 
-      "id": 9, 
+      "id": 12, 
       "title": "Japones Habanero", 
       "description": "Japones Habanero", 
       "images": [ 
-        "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        "img/habanero.png" 
       ], 
       "price100g": 30,
-      "priceKilo": 122, 
-          "priceMedio": 88, 
-      "priceCuarto": 71, 
+      "priceKilo": 130, 
+          "priceMedio": 92, 
+      "priceCuarto": 73, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -230,7 +306,7 @@
     } 
     } ,
     { 
-      "id": 10, 
+      "id": 13, 
       "title": "Hot Nuts", 
       "description": "Cacahuate tipo Hot Nuts", 
       "images": [ 
@@ -245,7 +321,7 @@
         "isMedio":false, 
         "isCuarto":false, 
            "price":null, 
-        "cantidad": 10,
+        "cantidad": 0,
       "category": { 
         "id": 34, 
         "name": "botanas", 
@@ -256,16 +332,16 @@
     } ,
 
 { 
-      "id": 11, 
+      "id": 14, 
       "title": "Pistache Natural", 
       "description": "Pistache Natural", 
       "images": [ 
         "https://i.pinimg.com/564x/39/6f/f5/396ff5badad3a47bc35bff8472aeb663.jpg" 
       ], 
       "price100g": 60,
-      "priceKilo": 332, 
-          "priceMedio": 192, 
-      "priceCuarto": 122, 
+      "priceKilo": 386, 
+          "priceMedio": 220, 
+      "priceCuarto": 136, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -282,16 +358,16 @@
     } ,
 
 { 
-      "id": 12, 
+      "id": 15, 
       "title": "Chocoreta", 
       "description": "Chocoreta ", 
       "images": [ 
         "https://i.pinimg.com/736x/86/0a/0a/860a0affb1e2d1721eb9de42b26d2f5a.jpg" 
       ], 
       "price100g": 50,
-      "priceKilo": 254, 
-          "priceMedio": 154, 
-      "priceCuarto": 103, 
+      "priceKilo": 285, 
+          "priceMedio": 170, 
+      "priceCuarto": 112, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -307,16 +383,16 @@
     } 
     },
 { 
-      "id": 13, 
+      "id": 16, 
       "title": "Galleta con Chocolate", 
       "description": "Galleta con Chocolate ", 
       "images": [ 
         "https://i.pinimg.com/736x/6e/52/ea/6e52eaa97fd5625d2417ff50f46299df.jpg" 
       ], 
-      "price100g": 40,
-      "priceKilo": 242, 
-          "priceMedio": 147, 
-      "priceCuarto": 100, 
+      "price100g": 50,
+      "priceKilo": 404, 
+          "priceMedio": 229, 
+      "priceCuarto": 141, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -333,16 +409,16 @@
     } ,
 
 { 
-      "id": 14, 
+      "id": 17, 
       "title": "Huevito", 
       "description": "Huevito", 
       "images": [ 
         "https://i.pinimg.com/564x/d0/10/fe/d010fec0487523e3234da9c4f6086098.jpg" 
       ], 
       "price100g": 40,
-      "priceKilo": 361, 
-          "priceMedio": 208, 
-      "priceCuarto": 130, 
+      "priceKilo": 185, 
+          "priceMedio": 120, 
+      "priceCuarto": 87, 
       "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
@@ -358,20 +434,22 @@
     } 
     },
     { 
-      "id": 15, 
-      "title": "Caja combinada", 
-      "description": "Huevito, almendra con chocolate y arandano", 
+      "id": 18, 
+      "title": "Datíl", 
+      "description": "Fruto alargado, de piel delgada, textura carnosa y sabor muy dulce", 
       "images": [ 
-        "img/cajaConvinada.jpg"
+        "https://i.pinimg.com/736x/04/e9/68/04e968ba42c0b5fc4fec3874dc3778c5.jpg"
       ], 
-      "pricePieza": 50, 
-          "isPieza":true, 
-          "isGramo":false,
+      "price100g": 30,
+      "priceKilo": 180, 
+          "priceMedio": 117, 
+      "priceCuarto": 86, 
+      "isGramo":true,
            "isKilo":false, 
         "isMedio":false, 
         "isCuarto":false, 
            "price":null, 
-        "cantidad": 10,
+  "cantidad": 10,
       "category": { 
         "id": 34, 
         "name": "botanas", 
@@ -379,6 +457,31 @@
         "creationAt": "2023-09-07T13:04:32.000Z", 
         "updatedAt": "2023-09-07T13:04:32.000Z" 
     } 
-  }
+  },
+  { 
+    "id": 19, 
+    "title": "Cacahuate habanero", 
+    "description": "Cacahuate habanero", 
+    "images": [ 
+      "img/habanero.png"
+    ], 
+    "price100g": 30,
+    "priceKilo": 130, 
+        "priceMedio": 92, 
+    "priceCuarto": 73, 
+    "isGramo":true,
+         "isKilo":false, 
+      "isMedio":false, 
+      "isCuarto":false, 
+         "price":null, 
+"cantidad": 10,
+    "category": { 
+      "id": 34, 
+      "name": "botanas", 
+      "image": "", 
+      "creationAt": "2023-09-07T13:04:32.000Z", 
+      "updatedAt": "2023-09-07T13:04:32.000Z" 
+  } 
+}
   ]
 }
