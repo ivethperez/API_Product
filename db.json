@@ -398,7 +398,7 @@
         "isMedio":false, 
         "isCuarto":false, 
            "price":null, 
-  "cantidad": 0,
+  "cantidad": 10,
       "category": { 
         "id": 34, 
         "name": "chocolates", 
@@ -460,10 +460,10 @@
   },
   { 
     "id": 19, 
-    "title": "Cacahuate habanero", 
-    "description": "Cacahuate habanero", 
+    "title": "Garapiñado", 
+    "description": "Garapiñado", 
     "images": [ 
-      "img/habanero.png"
+      "img/garapiñado.png"
     ], 
     "price100g": 30,
     "priceKilo": 130, 
