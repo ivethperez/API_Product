@@ -158,7 +158,7 @@
       "title": "Pasita con Chocolate",
       "description": "Pasita con Chocolate",
       "images": [
-        "hhttps://i.pinimg.com/736x/1d/4f/6a/1d4f6a23d4a8a125aa0f6ea065d11d55.jpg"
+        "https://i.pinimg.com/736x/1d/4f/6a/1d4f6a23d4a8a125aa0f6ea065d11d55.jpg"
       ],
       "price100g": 50,
       "priceKilo": 404,
@@ -183,7 +183,7 @@
       "title": "Hojuela de Chocolate",
       "description": "Hojuela de Chocolate",
       "images": [
-        ""
+        "img/hojuelaChocolate"
       ],
       "price100g": 50,
       "priceKilo": 435,
