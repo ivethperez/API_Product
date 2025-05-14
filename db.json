@@ -17,7 +17,7 @@
         "isMedio":false,
         "isCuarto":false,
            "price":null,
-          "cantidad": 0,
+          "cantidad": 4,
       "category": {
         "id": 34,
         "name": "gomitas",
@@ -42,7 +42,7 @@
         "isMedio":false,
         "isCuarto":false,
            "price":null,
-      "cantidad": 0,
+      "cantidad": 10,
       "category": {
         "id": 34,
         "name": "gomitas",
@@ -67,7 +67,7 @@
         "isMedio":false,
         "isCuarto":false,
            "price":null,
-             "cantidad": 0,
+             "cantidad": 10,
       "category": {
         "id": 34,
         "name": "gomitas",
