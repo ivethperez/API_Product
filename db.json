@@ -1,6 +1,5 @@
 {
   "products": [
-
       {
       "id": 1,
       "title": "Gomita Mangomita",
@@ -31,7 +30,7 @@
       "title": "Gomita pandita",
       "description": "Gomita panditas",
       "images": [
-        "https://i.pinimg.com/736x/9f/ae/06/9fae0695c2b0cab2c91b0677e7c0cc9d.jpg"
+        "img/panditas.webp"
       ],
       "price100g": 40,
       "priceKilo": 170,
@@ -56,7 +55,7 @@
       "title": "Gomita de diente",
       "description": "Gomita de diente",
       "images": [
-        "https://i.pinimg.com/736x/dc/92/6b/dc926baed0f41ebb13f1589537b9181c.jpg"
+        "img/gomita_dientes.webp"
       ],
       "price100g": 40,
       "priceKilo": 170,
@@ -81,7 +80,7 @@
       "title": "Almedra Con Chocolate",
       "description": "Almedra Con Chocolate",
       "images": [
-        "https://i.pinimg.com/564x/6c/cd/9f/6ccd9fac97c1a343c9a8e815e91ecd8e.jpg"
+        "img/almendra_chocolate.webp"
       ],
       "price100g": 60,
       "priceKilo": 430,
@@ -107,7 +106,7 @@
       "title": "Bombón con Chocolate",
       "description": "Bombón con Chocolate",
       "images": [
-        "https://i.pinimg.com/564x/80/2c/87/802c874cbbb643b4b10f8eab9da7c73c.jpg"
+        "img/bombon_chocolate.webp"
       ],
       "price100g": 40,
       "priceKilo": 285,
@@ -133,7 +132,7 @@
       "title": "Nuez con Chocolate",
       "description": "Nuez con Chocolate",
       "images": [
-        "https://i.pinimg.com/736x/f1/47/3e/f1473e8cac75181c48c40b5676e0307c.jpg"
+        "img/nuez_chocolate.webp"
       ],
       "price100g": 60,
       "priceKilo": 506,
@@ -158,7 +157,7 @@
       "title": "Pasita con Chocolate",
       "description": "Pasita con Chocolate",
       "images": [
-        "https://i.pinimg.com/736x/1d/4f/6a/1d4f6a23d4a8a125aa0f6ea065d11d55.jpg"
+        "img/pasitas_chocolate.webp"
       ],
       "price100g": 50,
       "priceKilo": 404,
@@ -183,7 +182,7 @@
       "title": "Hojuela de Chocolate",
       "description": "Hojuela de Chocolate",
       "images": [
-        "img/hojuelaChocolate.png"
+        "img/hojuela_chocolate.webp"
       ],
       "price100g": 50,
       "priceKilo": 435,
@@ -209,7 +208,7 @@
       "title": "Arándano Natural", 
       "description": "Arándano Natural", 
       "images": [ 
-        "https://i.pinimg.com/564x/51/b6/d0/51b6d0b095fcabb214f09bef73f39d2c.jpg" 
+        "img/arandanos.webp" 
       ], 
       "price100g": 40,
       "priceKilo": 182, 
@@ -234,7 +233,7 @@
       "title": "Botana mexicana", 
       "description": "Cacahuate combinado(japones,pepita,garbanzo,haba)", 
       "images": [ 
-        "img/botanaMexicana.png" 
+        "img/botana_mexicana.webp" 
       ], 
       "price100g": 30,
       "priceKilo": 138, 
@@ -260,7 +259,7 @@
       "title": "Japones Natural", 
       "description": "Cacahuate Japones Natural", 
       "images": [ 
-        "https://i.pinimg.com/564x/38/d2/6c/38d26cc4e0fc8a1f20f82e0c6ae8f98f.jpg" 
+        "img/japones.webp" 
       ], 
       "price100g": 30,
       "priceKilo": 130, 
@@ -285,7 +284,7 @@
       "title": "Japones Habanero", 
       "description": "Japones Habanero", 
       "images": [ 
-        "img/habanero.png" 
+        "img/japones_habanero.webp" 
       ], 
       "price100g": 30,
       "priceKilo": 130, 
@@ -310,7 +309,7 @@
       "title": "Hot Nuts", 
       "description": "Cacahuate tipo Hot Nuts", 
       "images": [ 
-        "https://media.istockphoto.com/id/1686277638/es/foto/surtido-de-bocadillos-crujientes-de-cacahuetes-wasabi-verde-chile-picante-rojo-queso-jalape%C3%B1o.jpg?s=1024x1024&w=is&k=20&c=GWFyzNAskWQ8LSJ765h0-p8TLTrtmTWll9uXL6BLRrk=" 
+        "img/hotnuts.webp" 
       ], 
       "price100g": 30,
       "priceKilo": 122, 
@@ -336,7 +335,7 @@
       "title": "Pistache Natural", 
       "description": "Pistache Natural", 
       "images": [ 
-        "https://i.pinimg.com/564x/39/6f/f5/396ff5badad3a47bc35bff8472aeb663.jpg" 
+        "img/pistache.webp" 
       ], 
       "price100g": 60,
       "priceKilo": 386, 
@@ -362,7 +361,7 @@
       "title": "Chocoreta", 
       "description": "Chocoreta ", 
       "images": [ 
-        "https://i.pinimg.com/736x/86/0a/0a/860a0affb1e2d1721eb9de42b26d2f5a.jpg" 
+        "img/chocoretas.webp" 
       ], 
       "price100g": 50,
       "priceKilo": 285, 
@@ -387,7 +386,7 @@
       "title": "Galleta con Chocolate", 
       "description": "Galleta con Chocolate ", 
       "images": [ 
-        "https://i.pinimg.com/736x/6e/52/ea/6e52eaa97fd5625d2417ff50f46299df.jpg" 
+        "img/galleta_chocolate.webp" 
       ], 
       "price100g": 50,
       "priceKilo": 404, 
@@ -413,7 +412,7 @@
       "title": "Huevito", 
       "description": "Huevito", 
       "images": [ 
-        "https://i.pinimg.com/564x/d0/10/fe/d010fec0487523e3234da9c4f6086098.jpg" 
+        "img/huevito.webp" 
       ], 
       "price100g": 40,
       "priceKilo": 185, 
@@ -438,7 +437,7 @@
       "title": "Datíl", 
       "description": "Fruto alargado, de piel delgada, textura carnosa y sabor muy dulce", 
       "images": [ 
-        "https://i.pinimg.com/736x/04/e9/68/04e968ba42c0b5fc4fec3874dc3778c5.jpg"
+        "img/datil.webp"
       ], 
       "price100g": 30,
       "priceKilo": 180, 
@@ -463,7 +462,7 @@
     "title": "Garapiñado", 
     "description": "Garapiñado", 
     "images": [ 
-      "img/garapiñado.png"
+      "img/garapiñado.webp"
     ], 
     "price100g": 30,
     "priceKilo": 130, 
